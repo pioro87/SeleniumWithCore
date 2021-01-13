@@ -25,7 +25,7 @@ namespace SeleniumWithCore
             
             CustomControl.ComboBox("ContentPlaceHolder1_AllMealsCombo", "Almond");
 
-            //Driver.Quit();
+            Driver.Quit();
 
         }
 
